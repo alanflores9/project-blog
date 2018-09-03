@@ -38,6 +38,8 @@
                             <div class="form-group">
                                 <label for="data_arrive">Fecha</label>
                                 <input name='data_arrive' id="data_arrive" type="date">
+                                <label for="time_arrive">Hora</label>
+                                <input name='time_arrive' type="time" name="hora">
                             </div>
 
                             
